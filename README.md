@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img align="right" alt="Colix" width="180" src="https://github.com/YeahhColix/YeahhColix/blob/main/coleeeix.gif" />
 I'm YeahhColix, but you can call me colix.
 
 ### Stats 
