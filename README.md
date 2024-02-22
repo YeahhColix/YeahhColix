@@ -3,6 +3,8 @@
 <img align="right" alt="Colix" width="180" src="https://github.com/YeahhColix/YeahhColix/blob/main/coleeeix.gif" />
 I'm YeahhColix, but you can call me colix.
 
+My only alt account is @Usernator101.
+
 ### Stats 
 
 ![Profile views](https://komarev.com/ghpvc/?username=yeahhcolix)
