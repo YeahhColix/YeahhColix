@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<img align="right" alt="Colix" width="180" src="https://github.com/YeahhColix/YeahhColix/blob/main/coleeeix.gif" />
 I'm YeahhColix, but you can call me colix.
 
 My only alt account is [@xiloChhaeY](https://github.com/xiloChhaeY).
+
+![status](https://api.statusbadges.me/badge/status/1079219488282660934?simple=true)
 
 ### Stats 
 
