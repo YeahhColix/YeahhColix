@@ -2,11 +2,9 @@
 
 I'm YeahhColix, but you can call me colix.
 
-My only alt account is [@xiloChhaeY](https://github.com/xiloChhaeY).
+### Stats 
 
 ![status](https://api.statusbadges.me/badge/status/1079219488282660934?simple=true)
-
-### Stats 
 
 ![Profile views](https://komarev.com/ghpvc/?username=yeahhcolix)
 <table>
