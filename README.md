@@ -4,7 +4,6 @@ I'm YeahhColix, but you can call me colix.
 
 ### Stats 
 
-![status](https://api.statusbadges.me/badge/status/1079219488282660934?simple=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yeahhcolix)
 <table>
