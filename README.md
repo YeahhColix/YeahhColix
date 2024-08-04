@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm YeahhColix, but you can call me colix.
+I'm YeahhColix, but you can call me colix.<br>I also own the GDPS, [PrismGDPS](https://github.com/prismgdps)!
 
 ### Stats 
 
